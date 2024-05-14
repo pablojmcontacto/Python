@@ -8,5 +8,5 @@
 </p>
 
 <p>
-El código que vamos a escribir se hará en <strong></strong>archivos Python cuya extensión en .py.</strong>
+El código que vamos a escribir se hará en <strong>archivos Python cuya extensión en .py.</strong>
 </p>
